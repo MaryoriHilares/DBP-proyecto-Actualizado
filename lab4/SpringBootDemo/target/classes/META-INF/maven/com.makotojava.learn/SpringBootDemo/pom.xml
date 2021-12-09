@@ -21,7 +21,7 @@
 		<junit.vintage.version>4.12.0-M4</junit.vintage.version>
 		<apache-derby.version>10.13.1.1</apache-derby.version>
 		<commons-lang3.version>3.5</commons-lang3.version>
-    <jackson.version>2.8.8</jackson.version>
+    <jackson.version>2.9.10.8</jackson.version>
 		<odotCore.version>1.0</odotCore.version>
 
 		<java.version>1.8</java.version>
